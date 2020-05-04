@@ -39,7 +39,7 @@ function xTextRefresh() {
     "translate(" +
       ((w - arealabel) / 2 + arealabel) +
       ", " +
-      (h - mar - tPadBot) +
+      (h - marg - tPadBot) +
       ")"
   );
 }
